@@ -1,2 +1,2 @@
-## Android Dictionary App
-A full Language Dictionary Application Project
+## Android pet App
+pets data collection app
